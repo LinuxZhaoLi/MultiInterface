@@ -14,7 +14,7 @@ Rectangle{
 
     AnimatedImage {
         id: animation;
-        source:"./Image/sno.gif"
+        source:"../Image/sno.gif"
         fillMode: Image.Stretch
         anchors.fill: parent
     }
