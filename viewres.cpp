@@ -16,7 +16,7 @@ ViewRes::ViewRes(QObject *parent):QObject(parent)
 QVariantMap ViewRes::Images()
 {
     QVariantMap imageMap;
-    imageMap["1"] = "./Images/sno.gif";
+    imageMap["1"] = "./Images/tree.jpg";
     return imageMap;
 }
 
