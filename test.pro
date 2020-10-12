@@ -31,4 +31,10 @@ DISTFILES += \
     qml_3.qml \
     qml_4.qml \
     qml_5.qml \
-    qml_6.qml
+    qml_6.qml \
+    views/qml_1.qml \
+    views/qml_2.qml \
+    views/qml_3.qml \
+    views/qml_4.qml \
+    views/qml_5.qml \
+    views/qml_6.qml

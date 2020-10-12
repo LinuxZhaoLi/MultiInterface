@@ -16,9 +16,9 @@ Rectangle{
 
     }
 
-    AnimatedImage {
+    Image {
         id: animation;
-        source:"../Image/sno.gif"
+        source:"../Image/tree.jpg"
         fillMode: Image.Stretch
         anchors.fill: parent
     }
