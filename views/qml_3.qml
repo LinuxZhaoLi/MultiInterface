@@ -15,11 +15,13 @@ Rectangle{
 
     }
 
-    Image {
+    AnimatedImage {
         id: animation;
-        source:"../Image/tree.jpg"
+        source:"../Image/sno.gif"
         fillMode: Image.Stretch
         anchors.fill: parent
+
+        asynchronous: true
     }
     Label {
 
